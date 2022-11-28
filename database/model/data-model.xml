@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataModel>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.providers.rateLimit.basic.database.types.rateLimitInstance</type>
+        <x>712</x>
+        <y>398</y>
+    </entries>
+    <entries>
+        <synchronize>true</synchronize>
+        <type>nabu.providers.rateLimit.basic.database.types.rateLimitRule</type>
+        <x>153</x>
+        <y>135</y>
+    </entries>
+</dataModel>

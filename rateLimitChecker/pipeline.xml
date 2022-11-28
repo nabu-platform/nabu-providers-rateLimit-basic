@@ -1,0 +1,9 @@
+<structure interface="be.nabu.eai.module.web.application.api.RateLimitProvider.rateLimit" name="pipeline">
+    <structure name="input"/>
+    <structure name="output"/>
+    <structure definition="be.nabu.eai.module.web.application.api.RateLimitSettings" maxOccurs="unbounded" minOccurs="0" name="settings"/>
+    <field name="since" type="java.util.Date"/>
+    <field minOccurs="0" name="now" type="java.util.Date"/>
+    <structure definition="be.nabu.eai.module.web.application.api.RateLimitCheck" minOccurs="0" name="check"/>
+    <field name="timeDiff" type="java.lang.Double"/>
+</structure>

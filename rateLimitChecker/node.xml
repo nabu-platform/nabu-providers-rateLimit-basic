@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.services.vm.VMServiceManager" created="2022-11-28T10:33:30.502+01:00" lastModified="2022-11-28T10:51:11.721+01:00" leaf="true" version="14">
+    <environmentId>apollo</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.providers.rateLimit.basic.services.rateLimitSettings</references>
+    <references>java.lang.Double</references>
+    <references>java.util.Date</references>
+    <references>nabu.utils.Date.now</references>
+    <references>be.nabu.eai.module.web.application.api.RateLimitProvider.rateLimit</references>
+    <references>nabu.providers.rateLimit.basic.services.rateLimitCheck</references>
+    <references>be.nabu.libs.authentication.api.Device</references>
+    <references>be.nabu.libs.authentication.api.Token</references>
+    <references>nabu.providers.rateLimit.basic.services.rateLimitLog</references>
+    <references>nabu.utils.Date.diff</references>
+    <references>be.nabu.eai.module.web.application.api.RateLimitResult</references>
+    <references>be.nabu.eai.module.web.application.api.RateLimitSettings</references>
+    <references>be.nabu.eai.module.web.application.api.RateLimitCheck</references>
+    <references>java.lang.String</references>
+    <references>nabu.utils.Date.increment</references>
+    <references>be.nabu.eai.module.http.virtual.api.Source</references>
+</node>

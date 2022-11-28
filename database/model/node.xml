@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.data.model.DataModelManager" created="2021-02-18T17:54:08.988+01:00" lastModified="2022-11-28T09:56:47.688+01:00" leaf="true" version="6">
+    <environmentId>apollo</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.providers.rateLimit.basic.database.types.rateLimitInstance</references>
+    <references>nabu.providers.rateLimit.basic.database.types.rateLimitRule</references>
+</node>
