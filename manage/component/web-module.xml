@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webModule>
+    <webFragments>nabu.providers.rateLimit.basic.manage.crud.rateLimitInstance</webFragments>
+    <webFragments>nabu.providers.rateLimit.basic.manage.crud.rateLimitRule</webFragments>
+    <audience>MANAGER</audience>
+</webModule>

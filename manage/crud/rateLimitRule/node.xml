@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<node artifactManager="be.nabu.eai.module.services.crud.CRUDArtifactManager" created="2022-11-30T10:24:23.378+01:00" lastModified="2022-11-30T10:25:32.448+01:00" leaf="false" version="3">
+    <environmentId>apollo</environmentId>
+    <hidden>false</hidden>
+    <locked>false</locked>
+    <properties/>
+    <references>nabu.providers.rateLimit.basic.database.types.rateLimitRule</references>
+    <references>nabu.services.crud.provider.basic.provider</references>
+</node>

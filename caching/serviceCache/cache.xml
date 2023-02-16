@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cache>
+    <cacheProvider>nabu.providers.rateLimit.basic.caching.memoryCache</cacheProvider>
+    <service>nabu.providers.rateLimit.basic.services.rule.selectActionless</service>
+    <service>nabu.providers.rateLimit.basic.services.rule.search</service>
+    <enableInDevelopment>true</enableInDevelopment>
+</cache>
