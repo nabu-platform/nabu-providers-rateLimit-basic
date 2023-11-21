@@ -23,7 +23,7 @@
 					mask="false"
 					optional="false"
 					fixedValue="true">
-				<from>nabu.providers.cors.basic.database.model</from>
+				<from>nabu.providers.rateLimit.basic.database.model</from>
 				<to>id</to>
 			</steps>
 		</steps>
